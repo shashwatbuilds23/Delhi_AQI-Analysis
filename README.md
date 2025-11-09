@@ -29,7 +29,7 @@ This project provides a foundation for understanding urban air quality dynamics.
 
 ## 🧾 Dataset
 
-**File:** `Delhi_AQI (2021-2-24) dataset.csv`  
+**File:** `Delhi_AQI (2021-2024) dataset.csv`  
 **Source:** Collected AQI and pollutant data for Delhi (2021).  
 
 **Columns may include:**
